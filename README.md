@@ -1,6 +1,8 @@
-![Black and White Minimalist Elegant Fashion Banner(1)](https://github.com/kasrabt/kasrabt/assets/112955201/098d4fa7-393c-4de2-86a4-42eefb11332a)
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/1813781/screenshots/5629008/working-time.gif" width="350"/>
+</div> 
 
-hi 👋 It’s Kasra
+<h1> hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> It’s Kasra </h1>
 
 I am a frontend developer who is eager to learn new things. My areas of expertise include:
 
