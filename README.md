@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div >
   <img src="./xd.gif" width="350"/>
 </div> 
 
