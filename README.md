@@ -1,5 +1,5 @@
-<div >
-  <img src="./xd.gif" width="350"/>
+<div>
+  <img src="./xd.gif" width="100%" height="100%"/>
 </div> 
 
 <h1> hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> It’s Kasra 💚</h1>
