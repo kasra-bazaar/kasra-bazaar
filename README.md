@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1813781/screenshots/5629008/working-time.gif" width="350"/>
+  <img src="./xd.gif" width="350"/>
 </div> 
 
-<h1> hi  <img src="./xd.gif" width="30px"/> It’s Kasra 💚</h1>
+<h1> hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> It’s Kasra 💚</h1>
 
 I am a frontend developer who is eager to learn new things. My areas of expertise include:
 
