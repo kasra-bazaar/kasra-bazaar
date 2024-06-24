@@ -25,10 +25,7 @@ I am a frontend developer who is eager to learn new things. My areas of expertis
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>  
-
 <br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/kasra-tavakoli-808885267" target="_blank">
@@ -41,20 +38,6 @@ I am a frontend developer who is eager to learn new things. My areas of expertis
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 <div align="center">
