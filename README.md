@@ -3,7 +3,7 @@
 </div> 
 
 <h1 align="center">Hi 👋, I'm kasra</h1>
-<h3 align="center">I am a frontend developer who is eager to learn new things. My areas of expertise include:</h3>
+<h3 align="center">I am a frontend developer who is eager to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasrabt&label=Profile%20views&color=0e75b6&style=flat" alt="kasrabt" /> </p>
 
