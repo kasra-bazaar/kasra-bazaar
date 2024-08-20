@@ -3,7 +3,7 @@
 </div> 
 
 # 💫 About Me:
-I am a frontend developer who is eager to learn new things.
+I am a frontend developer who is eager to learn new things. and I create to learn  and learn to create 😃
 
 
 ## 🌐 Socials:
